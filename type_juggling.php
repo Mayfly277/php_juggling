@@ -25,6 +25,9 @@ class Color
     }
 }
 
+/**
+* The type juggling test class
+*/
 class TypeJuggling
 {
     private $typeList = array(
